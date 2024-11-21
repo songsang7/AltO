@@ -1,6 +1,6 @@
 # Unsupervised Homography Estimation on Multimodal Image Pair via Alternating Optimization (AltO)
 
-This is an official PyTorch implementation of "[Unsupervised Homography Estimation on Multimodal Image Pair via Alternating Optimization](https://neurips.cc/virtual/2024/poster/92937)" to be presented at the Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
+This is an official PyTorch implementation of "[Unsupervised Homography Estimation on Multimodal Image Pair via Alternating Optimization](https://arxiv.org/abs/2411.13036)" to be presented at the Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
 
 ![](https://github.com/songsang7/AltO/blob/main/paper_figures/overall_archi_whitebackgrounded.svg)
 
